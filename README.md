@@ -3,7 +3,9 @@ Working on the Countdown task from Round-C-2020-Google-KickStart
 
 Tasks archive: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43
 
-Thank you for participating in Kick Start 2020 Round C.
+[![Run on Repl.it](https://repl.it/badge/github/ultraasi-atanas/Round-C-2020-Google-KickStart)](https://repl.it/github/ultraasi-atanas/Round-C-2020-Google-KickStart)
+
+"Thank you for participating in Kick Start 2020 Round C.
 
 Cast
 
